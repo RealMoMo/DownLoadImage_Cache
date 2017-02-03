@@ -1,11 +1,11 @@
-# DownLoadImage_Cache---第五周学习Android路上
+# DownLoadImage_Cache
 三级缓存图片
 
 关于作者：
 RealMoMo
 > 关于我，欢迎关注  
    微信：[Real_Mo]()  
-   邮箱：czb166@qq.com
+   邮箱：momo_weiye@126.com
 -------------
 ####开发目的: 
 <br>1.加深掌握android 服务、广播、通知</br>
@@ -34,5 +34,4 @@ Everyone who has contributed code and reported issues and pull requests!
 直接内部直接给定接口下载图片的地址。
 后续需可增添edittext控件输入图片路径，进行下载。
 
-###Version
-1.0----2016.11.14
+
