@@ -12,11 +12,6 @@ RealMoMo
 <br>2.熟悉三级缓存原理</br>
 <br>3.了解Bitmap加载原理以及处理大图片加载的二次采样</br>
 
-###预览界面
-
-
-     近期补上
-   
 
 ###开发环境
 Android Studio2.0
@@ -31,7 +26,6 @@ Android Studio2.0
 Everyone who has contributed code and reported issues and pull requests!
 
 ###TODO
-直接内部直接给定接口下载图片的地址。
-后续需可增添edittext控件输入图片路径，进行下载。
+Demo给定了下载地址，地址已失效，需要验证Demo的改下载图片地址即可。
 
 
